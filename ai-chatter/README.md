@@ -198,7 +198,7 @@ none of these tags will be active.
 
 | Tag                    | Reason for hostility                                                                                                                    |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| `angered by losess`    | Recently suffered damage by the player.                                                                                                 |
+| `angered by losses`    | Recently suffered damage by the player.                                                                                                 |
 | `angered by credit`    | Feels entitled to revenge for past transgressions by the player. (a broader and more long term form of memory than `angered by losses`) |
 | `angered by dominance` | The player is becoming the dominant faction on the map and may soon be unstoppable.                                                     |
 | `angered by rivalry`   | The player and the rival are the last two significant factions on the map, so there's no point to play politics any more.               |
